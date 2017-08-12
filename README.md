@@ -5,11 +5,9 @@ CASICS @@REPO_NAME@@
 
 @@SHORT_DESCRIPTION@@
 
-*Authors*:      [Michael Hucka](http://github.com/mhucka) and [Matthew J. Graham](https://github.com/doccosmos)
-
+*Authors*:      [Michael Hucka](http://github.com/mhucka) and [Matthew J. Graham](https://github.com/doccosmos)<br>
+*Repository*:   [https://github.com/casics/@@REPO@@](https://github.com/casics/@@REPO@@)<br>
 *License*:      Unless otherwise noted, this content is licensed under the [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
-
-*Repository*:   [https://github.com/casics/@@REPO@@](https://github.com/casics/@@REPO@@)
 
 ☀ Introduction
 -----------------------------
