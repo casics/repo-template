@@ -1,7 +1,7 @@
 CASICS @@REPO_NAME@@
 ================
 
-<img align="right" src=".graphics/casics-logo-small.png">
+<img width="100px" align="right" src=".graphics/casics-logo-small.svg">
 
 @@SHORT_DESCRIPTION@@
 
